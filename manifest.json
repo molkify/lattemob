@@ -1,1 +1,16 @@
-
+{
+    "name": "lattemob",
+    "short_name": "lattemob",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#221F30",
+    "theme_color": "#221F30",
+    "icons": [
+      {
+        "src": "img/logo.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+    ]
+  }
+  
